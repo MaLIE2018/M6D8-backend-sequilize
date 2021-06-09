@@ -1,2 +1,2 @@
-# M6D8-backend-sequilize
+# M6D7-backend with SQL
  
